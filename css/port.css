@@ -1,0 +1,72 @@
+header{
+ background-image: url(../images/back.jpg);
+ color: #fff;
+ text-align: center;
+ font-size: 70px;
+}
+p{
+	background-color: #fff;
+	padding: 5px;
+	width: 400px;
+	float: left;
+	margin-right: 10px;
+	margin-left: 20px;
+	color: rgba(0,0,0,0.7);
+}
+
+
+
+
+
+.photos{
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-left: 50px;
+	padding: 10px;
+	background: maroon;
+	float: left;
+
+}
+li{
+	background: blue;
+	border: 1px solid red;
+	width:100px;
+	margin: 20px;
+	color: #fff;
+	float: left;
+	
+
+}
+a{
+	color: #fff;
+	text-transform: uppercase;
+
+}
+footer{
+	background: darkblue;
+	width: 100%;
+	padding: 20px;
+	color: #fff;
+	float: none;
+}
+
+.fa-phone{
+	
+	padding: 5px;
+	border-radius: 10px;
+	text-align: left;
+}
+
+.fa-whatsapp{
+	
+	padding: 5px;
+	border-radius: 10px;
+	text-align: left;
+}
+.fa-facebook{
+	
+	padding: 5px;
+	border-radius: 10px;
+	text-align: left;
+}
+
